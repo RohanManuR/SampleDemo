@@ -13,3 +13,15 @@ git push -u origin main
 
 git branch  ~~branchname~~  ==> just creating the branch
 git checkout -b ~~branchname~~   ==> creating and control jumping to the branch
+
+git status  ==> display untracked files
+git branch  ==> displaying the branches list
+
+merge ------
+git checkout branchname/main
+git merge origin subbranchname
+git push origin branchname/main
+
+
+
+
