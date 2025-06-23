@@ -1,0 +1,15 @@
+local-----
+git init
+git add filename/ .
+git commit -m ~~~msg~~~
+
+
+remote-----
+~~~create repo in github~~~~
+   ~~~~copy the link~~~~~
+git remote add origin main   ~~link~~
+git push -u origin main
+
+
+git branch  ~~branchname~~  ==> just creating the branch
+git checkout -b ~~branchname~~   ==> creating and control jumping to the branch
